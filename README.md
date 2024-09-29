@@ -70,7 +70,7 @@
   <a href="https://github.com/gornostay25" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom:5px" />
   </a>
-  <a href="https://twitter.com/gornostay255" target="_blank">
+  <a href="https://x.com/volodymyr_g25" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom:5px" />
   </a>
   <a href="https://dev.to/gornostay25" target="_blank">
@@ -95,10 +95,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gornostay25&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://donate.gornostay25.is-a.dev" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-red.svg?style=for-the-badge&logoWidth=40" align="center"/></a>
 </div>
